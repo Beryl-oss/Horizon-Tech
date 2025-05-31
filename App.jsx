@@ -1,11 +1,11 @@
 
 import React, { useState } from 'react';
 import './index.css';
-import logo from './assets/logo.png';
-import moon from './assets/moon-img.png';
-import sun from './assets/sun-img.png';
-import githubIcon from './assets/github-img.png';
-import portfolioIcon from './assets/portfolio-img.png';
+import logo from './logo.png';
+import moon from './moon-img.png';
+import sun from './sun-img.png';
+import githubIcon from './github-img.png';
+import portfolioIcon from './portfolio-img.png';
 import { Menu, X, MessageSquare, Send, Palette, Camera, Video, Globe } from 'lucide-react';
 
 function App() {
